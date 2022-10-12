@@ -14,7 +14,7 @@ Learning python for your automation journey is life changing,here are some Basic
 | 3 | [Dne intro python basics](https://developer.cisco.com/learning/labs/dne-intro-python-basics/introduction/) | improve your skills as a beginner
 | 4 | [Intro coding and apis](https://developer.cisco.com/learning/modules/programming-fundamentals/intro-coding-and-apis/introduction/)|Learn Apis
 | 5 | [Intro to version control system ](https://developer.cisco.com/learning/modules/intro-git/introduction-to-version-control-systems/)|Learn the concepts
-| 6 | [Basics of the Git](https://developer.cisco.com/learning/labs/git-intro/) |Learn the basics of git,disover the power 
+| 6 | [Basics of the Git](https://developer.cisco.com/learning/labs/git-intro/) |Learn the basics of git,discover the power 
 | 7 | [Git branching](https://developer.cisco.com/learning/labs/git-branching/)|improve your git skills with branching 
 
 
