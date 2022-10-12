@@ -22,14 +22,14 @@ Understanding different data format is paramount in Network automation,Json,Xml,
 
 
 if you feel stressed 🙄 the community will always be there to help you,most of things will be strange in the Beginning sometimes you have to rest to understand more .
-in the beginning understanding a python virtual environmemt was hard even sending a simple api request 😁.
+in the beginning understanding a python virtual environmemt was for me hard even sending a simple api request 😁,Be patient !
 
 
-To learn more python with practical examples in a fun way [John Capobianco](https://github.com/automateyournetwork) is the reference,the fountain of knowlegdge in network automation ! 
+To learn more python with practical examples in a fun way [John Capobianco](https://github.com/automateyournetwork) is the reference,the fountain of knowledge in network automation ! 
 
-you can also discover the [Devnet exchange](https://developer.cisco.com/exchange/) you wil discover how developers from the community write great codes.
+you can also discover the [Devnet exchange](https://developer.cisco.com/exchange/) a great place to learn how to write your code as a professional.
 
 
-
+Shout out to [DCgubbins](https://twitter.com/DCgubbins) for the inspiration with Carl 😉 
 
 
