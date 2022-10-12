@@ -19,6 +19,11 @@ To start your automation journey with Devnet : https://developer.cisco.com/start
 | [1](phase1/README.md)  | Python,Rest apis,Json/Xml,Git/Github | the beginning 
 | [2](phase1/README.md)  | Linux skills,Ansible,Docker,Netconf/Yang| Play daily with Linux 
 | [3](phase2/README.md)  | Linux networking ,Container networking,NFV | Play daily with Linux |
-| [4](phase2/README.md)  | Network controllers,Cloud networking,DevOps |          |
+| [4](phase2/README.md)  | Network controllers,Cloud networking,DevOps | Important to know  |
 
+# Top 3 Books to start with 
 
+1.**Network programmability and automation fundamentals** (https://www.ciscopress.com/store/network-programmability-and-automation-fundamentals-9781587145148)
+by **Khaled abuelenain** ,**Jeff doyle**, **Anton karneliuk**, **Vinit jain**, To me this is the best book to start your automation journey no matter your level,the way the authors explain things is just insightful and inspiring,the book teaches real life scenarios you can go far with your hands on experience following different labs.
+
+2.**Devnet associate 200-901** (https://www.ciscopress.com/store/cisco-certified-devnet-associate-devasc-200-901-official-9780136642961) by **Chris jackson**,**Jason gooley**, **Adrian iliesu**, **Ashutosh Malegaonkar**, To me this is the second best book following the automation journey,
