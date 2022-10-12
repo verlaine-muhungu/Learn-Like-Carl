@@ -27,4 +27,4 @@ Networking engineering is a long journey,daily practice is the key ! you become 
 Do not skip the steps ⚠ be patient ! 
 
 
-[**Go to phase3:Linux networkingcontainers**](https://github.com/verlaine-muhungu/Learn-Like-Carl/blob/main/Phase3/README.md)
+[**Go to phase3:Linux networking and Containers**](https://github.com/verlaine-muhungu/Learn-Like-Carl/blob/main/Phase3/README.md) 
