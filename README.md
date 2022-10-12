@@ -19,7 +19,7 @@ To start your automation journey with Devnet : https://developer.cisco.com/start
 | Phases | Topics                       | Notes |
 |-------|---------------------------------|-------------------|
 | [1](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase%201/README.md)  | Python,Rest apis,Json/Xml,Git/Github | the beginning 
-| [2](phase1/README.md)  | Linux skills,Ansible,Docker,Netconf/Yang| Play daily with Linux 
+| [2](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase2/README.md)  | Linux skills,Ansible,Docker,Netconf/Yang| Play daily with Linux 
 | [3](phase2/README.md)  | Linux networking ,Container networking,NFV | Play daily with Linux |
 | [4](phase2/README.md)  | Network controllers,Cloud networking,DevOps | Important to know  |
 
