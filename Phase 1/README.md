@@ -32,4 +32,4 @@ you can also discover the [Devnet exchange](https://developer.cisco.com/exchange
 
 Shout out to [DCgubbins](https://twitter.com/DCgubbins) for the inspiration with Carl 😉 
 
-
+[**Go to Phase2:Linux skills,Ansible,Docker,Netconf/Yang**](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase2)
