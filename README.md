@@ -18,10 +18,10 @@ To start your automation journey with Devnet : https://developer.cisco.com/start
 
 | Phases | Topics                       | Notes |
 |-------|---------------------------------|-------------------|
-| [1](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase%201/README.md)  | Python,Rest apis,Json/Xml,Git/Github | The beginning 
-| [2](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase2/README.md)  | Linux skills,Ansible,Docker,Netconf/Yang| Play daily with Linux 
-| [3](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase3/README.md)  | Linux networking ,Container networking,NFV | Play daily with Linux |
-| [4](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase4/README.md)  | Network controllers,Cloud networking,DevOps | Important to know  |
+| [1](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase%201/README.md)  | Python,Rest apis,Json/Xml,Git/Github | foundational|
+| [2](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase2/README.md)  | Linux skills,Ansible,Docker,Netconf/Yang| foundational|
+| [3](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase3/README.md)  | Linux networking ,Container networking,NFV | Advanced |
+| [4](https://github.com/verlaine-muhungu/Learn-Like-Carl/tree/main/Phase4/README.md)  | Network controllers,Cloud networking,DevOps | Advanced |
 
 # Top 3 Books to start with 
 
