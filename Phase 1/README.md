@@ -13,9 +13,10 @@ Learning python for your automation journey is life changing,here are some Basic
 | 2 | [Community Python](https://developer.cisco.com/learning/labs/community-python-intro-lab/introduction/)|Learn basic python and Restapis
 | 3 | [Dne intro python basics](https://developer.cisco.com/learning/labs/dne-intro-python-basics/introduction/) | improve your skills as a beginner
 | 4 | [Intro coding and apis](https://developer.cisco.com/learning/modules/programming-fundamentals/intro-coding-and-apis/introduction/)|Learn Apis
-| 5 | [Intro to version control system ](https://developer.cisco.com/learning/modules/intro-git/introduction-to-version-control-systems/)|Learn the concepts
-| 6 | [Basics of the Git](https://developer.cisco.com/learning/labs/git-intro/) |Learn the basics of git,discover the power 
-| 7 | [Git branching](https://developer.cisco.com/learning/labs/git-branching/)|improve your git skills with branching 
+| 5 | [Advanced python](https://developer.cisco.com/learning/labs/python-advanced/introduction/ | Deep dive with Python
+| 6 | [Intro to version control system ](https://developer.cisco.com/learning/modules/intro-git/introduction-to-version-control-systems/)|Learn the concepts
+| 7 | [Basics of the Git](https://developer.cisco.com/learning/labs/git-intro/) |Learn the basics of git,discover the power 
+| 8 | [Git branching](https://developer.cisco.com/learning/labs/git-branching/)|improve your git skills with branching 
 
 
 Understanding different data format is paramount in Network automation,Json,Xml,Yaml are the most used,in the **Programming fundamentals series** [Hank preston](https://twitter.com/hfpreston) explains clearly everything,this is a great way to learn with Devnet.
