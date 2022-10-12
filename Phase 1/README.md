@@ -22,7 +22,7 @@ Learning python for your automation journey is life changing,here are some Basic
 Understanding different data format is paramount in Network automation,Json,Xml,Yaml are the most used,in the **Programming fundamentals series** [Hank preston](https://twitter.com/hfpreston) explains clearly everything,this is a great way to learn with Devnet.
 
 
-if you feel stressed 🙄 the community will always be there to help you,most of things will be strange in the Beginning sometimes you have to rest to understand more .
+if you feel stressed 🙄 the community will always be there to help you,most of things will be strange in the Beginning sometimes you have to rest to understand more,
 in the beginning understanding a python virtual environmemt was hard for me even sending a simple api request 😁,Be patient !
 
 
