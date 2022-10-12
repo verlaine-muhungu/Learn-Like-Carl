@@ -12,3 +12,12 @@ your learning journey is not a race,Be yourself,Learn daily,Practice daily.
 
 
 To start your automation journey with Devnet : https://developer.cisco.com/startnow/
+
+
+| Ordre | Sujets                           | Notes |
+|-------|---------------------------------|-------------------|
+| [0](phase0/README.md)  | Commencer avec zero experience | optionnel 
+| [1](phase1/README.md)  | Linux,Réseau,et les Fondamentaux du scripting|
+| [2](phase2/README.md)  | Les fondamentaux de la programmation |          |
+
+
