@@ -1,4 +1,4 @@
-Phase2:Linux skills,Ansible,Docker,Netconf/Yang 
+# Phase2:Linux skills,Ansible,Docker,Netconf/Yang 
 
 Learning linux is paramount when it comes to learning network automation,the world’s top 500 fastest supercomputers all run on Linux.
 there are more than 300 distributions in the world and ubuntu is the starting point,when i started my linux journey **Ubuntu** was the first then **Linux Mint**,**Raspbian**,**CentOs**,**Rocky Linux**.
