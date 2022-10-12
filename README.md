@@ -8,7 +8,7 @@ the fear to do things differently,leads engineers to neglect,for others it is li
 
 Network outages,Humans errors ! How many times did you heard a bad new in the industry from a great tech company ? Discover here [**Oren brigg**]( https://www.linkedin.com/in/orenbrigg/) Cisco israel SE shares an insightful blog on Network Automation https://blogs.cisco.com/developer/embrace-change-network-engineer 
 
-Learn like carl ! learning network automation requires a great investment of your time 🙄,it may take you 6 months of concentration to master the basic,sometimes 1 to 2 years,do not rush,enjoy the journey ! 
+Learn like carl ! learning network automation requires a great investment of your time 🙄,it may take you 6 months of concentration to master the basics,sometimes 1 to 2 years,do not rush,enjoy the journey ! 
 
 your learning journey is not a race,Be yourself,Learn daily,Practice daily 💻
 
