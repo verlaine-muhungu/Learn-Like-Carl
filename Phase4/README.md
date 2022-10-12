@@ -1,6 +1,6 @@
 # Phase4:Network controllers,Cloud Networking and DevOps 
 
-The networking industry changes daily,we went from the CLI to SDN,now the network is programmable.
+The networking industry changes daily,we went from the CLI to network automation,now the network is programmable.
 different trends continue to shape the future,learning to code is paramount and python is the answer when it comes to automate.
 
 
@@ -15,11 +15,11 @@ Here are some resources to learn better:
 | 4 | [SD-WAN programmability](https://developer.cisco.com/learning/tracks/sd-wan_programmability/)|Learn the basics 
 
 DevOps is the trend now on twitter,Linkedin...
-developers discuss new ways of doing things,**Mel delgado** and **Denise kwan** are 2 of favorite developers when it comes to insightful discussions,life long learning and  a culture of sharing.
+developers discuss new ways of doing things,**Mel delgado** and **Denise kwan** are 2 of my favorite developers when it comes to insightful discussions,life long learning and a culture of sharing.
 
-Discover **the daily standup** on youtube a discussion between **Dev** and **Ops** and one of my favorite episode https://youtu.be/TCuY5oyoS0g.
+Discover **the daily standup** on youtube a discussion between **Dev** and **Ops** here is one of my favorite episode https://youtu.be/TCuY5oyoS0g.
 
-to understand more DevOps you can also learn with the **Devnet snack minutes** on youtube a 10 minutes insightful conversation between **Karim iskander** and **Matt denapoli** where they invite a developer for a particular topic.
+to understand more **DevOps** you can also learn with the **Devnet snack minutes** on youtube a 10 minutes insightful conversation between **Karim iskander** and **Matt denapoli** where they invite a developer for a particular topic.
 
 
 The learning will never stop ! Happy Learning wherever you are 🌍🌎🌏
