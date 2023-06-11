@@ -6,7 +6,7 @@ Author: [Verlaine_Devnet ](https://twitter.com/Verlaine_Devnet)
 Carl is a devnet comic who learns network automation following different phases,Automation is the next big thing neglected by network engineers and some companies ! 
 the fear to do things differently,leads engineers to neglect,for others it is like a threat to their tradional skills ! 
 
-Network outages,Humans errors ! How many times did you heard a bad new in the industry from a great tech company ? Discover here [**Oren brigg**]( https://www.linkedin.com/in/orenbrigg/) Cisco israel SE shares an insightful blog on Network Automation https://blogs.cisco.com/developer/embrace-change-network-engineer 
+Network outages,Humans errors ! How many times did you heard a bad new in the industry from a great tech company ? Discover here [**Oren brigg**]( https://www.linkedin.com/in/orenbrigg/) Cisco Meraki PM in San francisco shares an insightful blog on Network Automation https://blogs.cisco.com/developer/embrace-change-network-engineer 
 
 Learn like carl ! learning network automation requires a great investment of your time 🙄,it may take you 6 months of concentration to master the basics,sometimes 1 to 2 years,do not rush,enjoy the journey ! 
 
