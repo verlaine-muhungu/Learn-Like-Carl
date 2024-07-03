@@ -32,7 +32,7 @@ by **Khaled abuelenain** ,**Jeff doyle**, **Anton karneliuk**, **Vinit jain**,to
 
 3.**Devnet associate 200-901** https://www.ciscopress.com/store/cisco-certified-devnet-associate-devasc-200-901-official-9780136642961 by **Chris jackson**,**Jason gooley**, **Adrian iliesu**, **Ashutosh Malegaonkar**,to me this is the second best book following the automation journey from a beginner perspective,the content is insightful,if you lab daily you can polish your skills.
 
-4.**Automate your Network** https://www.amazon.com/Automate-Your-Network-Introducing-Enterprise/dp/1799237885 by **John Capobianco** you cannot talk about network automation without mentioning the maestro 😄,he is a role model to many people in the industry including me  😉 ,to me this is the best third book in my learning journey from a beginnner perspective.
+4.**Automate your Network** https://www.amazon.com/Automate-Your-Network-Introducing-Enterprise/dp/1799237885 by **John Capobianco** you cannot talk about network automation without mentioning the maestro 😄,he is a role model to many people in the industry including me 😉
 
 5.**Cisco PyATS** https://www.ciscopress.com/store/cisco-pyats-network-test-and-automation-solution-data-9780138031671 by **John capobianco** and **Daniel wade** they are brillant automation contributors,PyATS is a great way to learn test driven automation,this guide is the first in the universe !
 
